@@ -17,7 +17,7 @@ let package = Package(
         // Update URL and checksum for each release
         .binaryTarget(
             name: "Rased",
-            url: "https://github.com/rased-org/device-intelligence-ios-spm/releases/download/v1.1.2/RasedSDK.xcframework.zip",
+            url: "https://github.com/rased-org/SecureKit/releases/download/v1.1.2/RasedSDK.xcframework.zip",
             checksum: "bbab25909536de56a8079136145d5ea97d86d784c1608bde8286c21e07e3f970"
         )
     ]
