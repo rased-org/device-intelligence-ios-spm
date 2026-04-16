@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "Rased",
             url: "https://sdk-download-proxy-988869092634.me-central2.run.app/ios/RasedCore/1.1.5/Rased.xcframework.zip",
-            checksum: "46f35ead533f8a6e03c4fdcbab990bc1d648341b2820473565b3bda0638bdc1a"
+            checksum: "39cff4bb5529789b50fda039296fe79b4a19dc8722f8d76a0c4587f9c4e8283c"
         )
     ]
 )
